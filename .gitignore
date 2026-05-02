@@ -1,0 +1,39 @@
+# 🔹 Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Virtual environment
+venv/
+env/
+ENV/
+
+# 🔹 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🔹 System files
+.DS_Store
+Thumbs.db
+
+# 🔹 VS Code settings
+.vscode/
+
+# 🔹 Environment variables
+.env
+
+# 🔹 Model files (optional: ignore large models if needed)
+# models/*.pkl
+
+# 🔹 Streamlit cache
+.streamlit/
+
+# 🔹 Logs
+*.log
+
+# 🔹 Temporary files
+*.tmp
+*.swp
+
+# 🔹 Output files (optional)
+outputs/
