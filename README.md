@@ -81,8 +81,10 @@ streamlit run app/app.py
 
 ## 📸 Screenshots
 
-![Dashboard](images/dashboard.png)
-![Chart](images/chart.png)
+![Dashboard](images/dashboard.png<img width="960" height="540" alt="ss9" src="https://github.com/user-attachments/assets/f8e5a97b-c0d4-4b27-8773-ba9db17a5f55" />
+)
+![Chart](images/chart.png<img width="960" height="540" alt="ss10" src="https://github.com/user-attachments/assets/9be6fc6c-7c2d-475f-b5e6-e7f6012be973" />
+)
 
 ---
 
